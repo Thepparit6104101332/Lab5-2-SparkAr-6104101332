@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Call_1(3)",
+  "identifier": "texture:286968-4f09d951-ad09-427e-b6c7-be98e1931758",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "d6fd16d009406a60783c97289d845774",
+  "assetLocator": "textures/Call_1(3).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 62,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 131,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "d6fd16d009406a60783c97289d845774",
+      "colorCount": 1747,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 3.312342066561154,
+      "pixelsHigh": 62,
+      "pixelsWide": 131
+    }
+  ]
+}
